@@ -15,11 +15,8 @@ I love building full-stack applications, learning new technologies, and solving 
 
 ---
 
-## 🌟 Featured Projects
+ 
 
-- 🔐 [Password Generator](https://github.com/ghosiaattaria/Password-Generator)  
-- 🌙 [Ramzan Countdown](https://github.com/ghosiaattaria/Ramzan-Countdown)  
-- (Aur koi project ho to yahan add karo)  
 
 ---
 
