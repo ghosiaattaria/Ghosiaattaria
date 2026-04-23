@@ -53,7 +53,7 @@ I am a dedicated **Full Stack Developer** and **UI/UX Designer** based in Karach
 
 ### 🐍 Contribution Snake:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghosiaattaria/ghosiaattaria/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+ <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
