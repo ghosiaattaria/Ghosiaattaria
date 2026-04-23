@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="<img width="768" height="1365" alt="Gemini_Generated_Image_f6u5tvf6u5tvf6u5" src="https://github.com/user-attachments/assets/99dabfb3-b4f1-4f34-aed3-1acdec4a97d9" />
-" />
+
 
 ### <kbd>Full-Stack Developer</kbd> • <kbd>UI/UX Designer</kbd> • <kbd>Tech Explorer</kbd>
 
