@@ -65,14 +65,8 @@ I am a passionate <strong>Full Stack Developer</strong> and <strong>UI/UX Enthus
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ghosiaattaria/ghosiaattaria/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghosiaattaria&color=5c72a8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+
 
 </div>
