@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Ghosia Attaria! <img src="https://media.giphy.com/media/hvRJCLzz8CztfW4xtr/giphy.gif" width="28">
+# 🚀            Hi, I'm Ghosia Attaria! <img src="https://media.giphy.com/media/hvRJCLzz8CztfW4xtr/giphy.gif" width="28">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
