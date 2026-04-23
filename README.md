@@ -45,7 +45,7 @@ I am a dedicated **Full Stack Developer** and **UI/UX Designer** based in Karach
 ### 🤝 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ghosia-atttaria-b04b18341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ghosia Attaria" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ghosia-attaria-b04b18341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ghosia Attaria" height="30" width="40" /></a>
 <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
